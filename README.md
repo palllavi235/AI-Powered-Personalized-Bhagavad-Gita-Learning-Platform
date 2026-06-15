@@ -2,6 +2,9 @@
 
 YUDHSVAH is a calm, source-grounded Bhagavad Gita wisdom platform. It supports a rich reading flow and a seeker guidance flow that retrieves verses, translations, and commentaries from the provided dataset before composing an answer.
 
+# website -link
+https://ai-powered-personalized-bhagavad-gi.vercel.app/
+
 ## Folder Structure
 
 ```txt
