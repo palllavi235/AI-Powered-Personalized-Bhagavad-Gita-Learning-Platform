@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+dist
+venv
+.env
+.env*.local
+*.log
+*.err
+*.tsbuildinfo
+chroma
+__pycache__
+.pytest_cache
+.npm-cache
